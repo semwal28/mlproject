@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: mlproject
+Version: 0.1
+Author: Dhruv Semwal
+Author-email: dhruvsewmwal51@gmail.com
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
