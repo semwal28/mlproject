@@ -1,0 +1,11 @@
+2026-02-26 18:24:19,484 - INFO - Entered the data ingestion method
+2026-02-26 18:24:19,485 - INFO - Reading dataset from C:\Users\semwa\OneDrive\Desktop\MLproject\notebook\data\student.csv
+2026-02-26 18:24:19,494 - INFO - Train-test split initiated
+2026-02-26 18:24:19,502 - INFO - Data ingestion completed successfully
+2026-02-26 18:24:19,507 - INFO - Read train and test data completed
+2026-02-26 18:24:19,507 - INFO - Obtaining preprocessing object
+2026-02-26 18:24:19,507 - INFO - Numerical features: ['writing score', 'reading score']
+2026-02-26 18:24:19,507 - INFO - Categorical features: {categorical_features}
+2026-02-26 18:24:19,509 - INFO - Applying preprocessing object on training and testing data
+2026-02-26 18:24:19,522 - INFO - Saved preprocessing object
+2026-02-26 18:24:19,522 - INFO - Transformed train and test data

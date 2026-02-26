@@ -1,0 +1,4 @@
+2026-02-17 02:16:15,646 - INFO - Entered the data ingestion method
+2026-02-17 02:16:15,646 - INFO - Reading dataset from C:\Users\semwa\OneDrive\Desktop\MLproject\notebook\data\student.csv
+2026-02-17 02:16:15,663 - INFO - Train-test split initiated
+2026-02-17 02:16:15,674 - INFO - Data ingestion completed successfully

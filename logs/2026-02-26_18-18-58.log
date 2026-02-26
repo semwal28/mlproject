@@ -1,0 +1,10 @@
+2026-02-26 18:18:58,771 - INFO - Entered the data ingestion method
+2026-02-26 18:18:58,772 - INFO - Reading dataset from C:\Users\semwa\OneDrive\Desktop\MLproject\notebook\data\student.csv
+2026-02-26 18:18:58,781 - INFO - Train-test split initiated
+2026-02-26 18:18:58,788 - INFO - Data ingestion completed successfully
+2026-02-26 18:18:58,792 - INFO - Read train and test data completed
+2026-02-26 18:18:58,792 - INFO - Obtaining preprocessing object
+2026-02-26 18:18:58,792 - INFO - Numerical features: ['writing score', 'reading score']
+2026-02-26 18:18:58,792 - INFO - Categorical features: {categorical_features}
+2026-02-26 18:18:58,794 - INFO - Applying preprocessing object on training and testing data
+2026-02-26 18:18:58,805 - ERROR - Error ininitiate_data_transformation: Cannot center sparse matrices: pass `with_mean=False` instead. See docstring for motivation and alternatives.

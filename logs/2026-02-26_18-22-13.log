@@ -1,0 +1,12 @@
+2026-02-26 18:22:13,163 - INFO - Entered the data ingestion method
+2026-02-26 18:22:13,163 - INFO - Reading dataset from C:\Users\semwa\OneDrive\Desktop\MLproject\notebook\data\student.csv
+2026-02-26 18:22:13,173 - INFO - Train-test split initiated
+2026-02-26 18:22:13,179 - INFO - Data ingestion completed successfully
+2026-02-26 18:22:13,183 - INFO - Read train and test data completed
+2026-02-26 18:22:13,183 - INFO - Obtaining preprocessing object
+2026-02-26 18:22:13,183 - INFO - Numerical features: ['writing score', 'reading score']
+2026-02-26 18:22:13,183 - INFO - Categorical features: {categorical_features}
+2026-02-26 18:22:13,185 - INFO - Applying preprocessing object on training and testing data
+2026-02-26 18:22:13,197 - INFO - Saved preprocessing object
+2026-02-26 18:22:13,198 - INFO - Transformed train and test data
+2026-02-26 18:22:13,198 - ERROR - Error ininitiate_data_transformation: name 'save_object' is not defined
