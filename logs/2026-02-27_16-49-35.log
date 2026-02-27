@@ -1,0 +1,14 @@
+2026-02-27 16:49:36,633 - INFO - Entered the data ingestion method
+2026-02-27 16:49:36,634 - INFO - Reading dataset from C:\Users\semwa\OneDrive\Desktop\MLproject\notebook\data\student.csv
+2026-02-27 16:49:36,647 - INFO - Train-test split initiated
+2026-02-27 16:49:36,657 - INFO - Data ingestion completed successfully
+2026-02-27 16:49:36,663 - INFO - Read train and test data completed
+2026-02-27 16:49:36,663 - INFO - Obtaining preprocessing object
+2026-02-27 16:49:36,663 - INFO - Numerical features: ['writing score', 'reading score']
+2026-02-27 16:49:36,663 - INFO - Categorical features: {categorical_features}
+2026-02-27 16:49:36,665 - INFO - Applying preprocessing object on training and testing data
+2026-02-27 16:49:36,682 - INFO - Saved preprocessing object
+2026-02-27 16:49:36,682 - INFO - Transformed train and test data
+2026-02-27 16:49:36,687 - INFO - Splitting training and testing input data
+2026-02-27 16:49:39,720 - INFO - Best model found, model name: Linear Regression, R2 score: 0.8706228922498663
+2026-02-27 16:49:39,720 - INFO - Saving the best model
