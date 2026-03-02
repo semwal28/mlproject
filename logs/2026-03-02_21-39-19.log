@@ -1,0 +1,9 @@
+2026-03-02 21:39:20,493 - INFO - Entered the data ingestion method
+2026-03-02 21:39:20,494 - INFO - Reading dataset from C:\Users\semwa\OneDrive\Desktop\MLproject\notebook\data\student.csv
+2026-03-02 21:39:20,504 - INFO - Train-test split initiated
+2026-03-02 21:39:20,511 - INFO - Data ingestion completed successfully
+2026-03-02 21:39:20,515 - INFO - Read train and test data completed
+2026-03-02 21:39:20,516 - INFO - Obtaining preprocessing object
+2026-03-02 21:39:20,516 - INFO - Numerical features: ['writing_score', 'reading_score']
+2026-03-02 21:39:20,516 - INFO - Categorical features: {categorical_features}
+2026-03-02 21:39:20,518 - ERROR - Error ininitiate_data_transformation: "['math_score'] not found in axis"

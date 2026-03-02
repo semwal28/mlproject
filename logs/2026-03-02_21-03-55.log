@@ -1,0 +1,17 @@
+2026-03-02 21:03:56,326 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.4:5000
+2026-03-02 21:03:56,327 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-02 21:03:56,335 - INFO -  * Restarting with stat
+2026-03-02 21:07:28,351 - INFO -  * Restarting with stat
+2026-03-02 21:09:07,440 - INFO -  * Restarting with stat
+2026-03-02 21:13:24,242 - INFO -  * Restarting with stat
+2026-03-02 21:14:11,373 - INFO -  * Restarting with stat
+2026-03-02 21:15:31,510 - INFO -  * Restarting with stat
+2026-03-02 21:15:49,562 - INFO -  * Restarting with stat
+2026-03-02 21:22:51,625 - INFO -  * Restarting with stat
+2026-03-02 21:23:15,462 - INFO -  * Restarting with stat
+2026-03-02 21:33:04,257 - INFO -  * Restarting with stat
+2026-03-02 21:33:24,682 - INFO -  * Restarting with stat
+2026-03-02 21:50:01,105 - INFO -  * Restarting with stat

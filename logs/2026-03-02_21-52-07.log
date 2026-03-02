@@ -1,0 +1,10 @@
+2026-03-02 21:52:09,231 - INFO - Entered the data ingestion method
+2026-03-02 21:52:09,231 - INFO - Reading dataset from C:\Users\semwa\OneDrive\Desktop\MLproject\notebook\data\student.csv
+2026-03-02 21:52:09,245 - INFO - Train-test split initiated
+2026-03-02 21:52:09,259 - INFO - Data ingestion completed successfully
+2026-03-02 21:52:09,270 - INFO - Read train and test data completed
+2026-03-02 21:52:09,270 - INFO - Obtaining preprocessing object
+2026-03-02 21:52:09,270 - INFO - Numerical features: ['writing_score', 'reading_score']
+2026-03-02 21:52:09,271 - INFO - Categorical features: {categorical_features}
+2026-03-02 21:52:09,274 - INFO - Applying preprocessing object on training and testing data
+2026-03-02 21:52:09,276 - ERROR - Error ininitiate_data_transformation: A given column is not a column of the dataframe

@@ -1,0 +1,18 @@
+2026-03-02 21:13:26,416 - WARNING -  * Debugger is active!
+2026-03-02 21:13:26,423 - INFO -  * Debugger PIN: 312-941-285
+2026-03-02 21:13:51,166 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:51] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-03-02 21:13:51,306 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:51] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-03-02 21:13:51,311 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:51] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-03-02 21:13:51,359 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:51] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=6SFKeRuJIjQQxRY7gJ40 HTTP/1.1" 200 -
+2026-03-02 21:13:51,407 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:51] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-03-02 21:13:56,804 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:56] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-03-02 21:13:56,845 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:56] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-03-02 21:13:56,854 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:56] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-03-02 21:13:56,901 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:56] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=6SFKeRuJIjQQxRY7gJ40 HTTP/1.1[0m" 304 -
+2026-03-02 21:13:56,979 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:56] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-03-02 21:13:59,267 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-03-02 21:13:59,300 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:59] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-03-02 21:13:59,305 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:59] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-03-02 21:13:59,381 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:59] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=6SFKeRuJIjQQxRY7gJ40 HTTP/1.1[0m" 304 -
+2026-03-02 21:13:59,506 - INFO - 127.0.0.1 - - [02/Mar/2026 21:13:59] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-03-02 21:14:11,114 - INFO -  * Detected change in 'C:\\Users\\semwa\\OneDrive\\Desktop\\MLproject\\app.py', reloading

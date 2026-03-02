@@ -1,0 +1,9 @@
+2026-03-02 21:50:03,275 - WARNING -  * Debugger is active!
+2026-03-02 21:50:03,283 - INFO -  * Debugger PIN: 312-941-285
+2026-03-02 21:50:03,552 - WARNING -  * Debugger is active!
+2026-03-02 21:50:03,559 - INFO -  * Debugger PIN: 312-941-285
+2026-03-02 21:50:08,991 - INFO - 127.0.0.1 - - [02/Mar/2026 21:50:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-03-02 21:50:09,119 - INFO - 127.0.0.1 - - [02/Mar/2026 21:50:09] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-03-02 21:50:09,122 - INFO - 127.0.0.1 - - [02/Mar/2026 21:50:09] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-03-02 21:50:09,140 - INFO - 127.0.0.1 - - [02/Mar/2026 21:50:09] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=xyFapXfObjhxmY4FHViu HTTP/1.1" 200 -
+2026-03-02 21:50:09,233 - INFO - 127.0.0.1 - - [02/Mar/2026 21:50:09] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

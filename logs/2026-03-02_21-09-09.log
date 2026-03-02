@@ -1,0 +1,9 @@
+2026-03-02 21:09:09,650 - WARNING -  * Debugger is active!
+2026-03-02 21:09:09,655 - INFO -  * Debugger PIN: 312-941-285
+2026-03-02 21:09:35,197 - INFO - 127.0.0.1 - - [02/Mar/2026 21:09:35] "GET /predict HTTP/1.1" 200 -
+2026-03-02 21:10:30,019 - INFO - 127.0.0.1 - - [02/Mar/2026 21:10:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-03-02 21:10:30,174 - INFO - 127.0.0.1 - - [02/Mar/2026 21:10:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-03-02 21:10:30,182 - INFO - 127.0.0.1 - - [02/Mar/2026 21:10:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-03-02 21:10:30,226 - INFO - 127.0.0.1 - - [02/Mar/2026 21:10:30] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=ObMWXW5GAzyFJKRhHydi HTTP/1.1" 200 -
+2026-03-02 21:10:30,287 - INFO - 127.0.0.1 - - [02/Mar/2026 21:10:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-03-02 21:13:23,923 - INFO -  * Detected change in 'C:\\Users\\semwa\\OneDrive\\Desktop\\MLproject\\src\\pipeline\\predict_pipeline.py', reloading
